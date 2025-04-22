@@ -1,0 +1,8 @@
+=== TRANSACTIONS AJOUTÉES ===
+Ajouté à Logement, meubles, articles ménagers, ligne 210: Loyer résidence / SOCIETE INVESTISSEMENT GILBERT - 620.0$
+Ajouté à Logement, meubles, articles ménagers, ligne 211: Assurance / LA PERSONNELLE - 21.72$
+Ajouté à Divers, ligne 202: Retrait au GA / UQAM 2 SCIENCES DE LA GES - 20.0$
+Ajouté à Divers, ligne 203: Virement Interac à / Emile Aubin-Ju/ - 61.0$
+Ajouté à Divers, ligne 204: Virement Interac à / keven / - 25.0$
+
+Total: 5 transactions ajoutées
